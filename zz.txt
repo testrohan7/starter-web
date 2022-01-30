@@ -1,1 +1,1 @@
-This file is being added from serve repository or identifying the flow
+This file is being added from server repository or identifying the flow
